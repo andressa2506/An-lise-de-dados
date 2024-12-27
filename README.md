@@ -65,17 +65,13 @@ Impacto do Gênero: Mulheres tiveram uma taxa de sobrevivência significativamen
 
 Classe Importa: Passageiros da 1ª classe apresentaram maiores chances de sobrevivência.
 
-Fator Idade: Crianças (passageiros mais jovens) tiveram taxas de sobrevivência mais altas em comparação aos adultos.
-
 
 
 ---
 
 Como Executar
 
-1. Clone este repositório:
-
-git clone https://github.com/seu-usuario/titanic-eda.git
+1. Clone este repositorio.
 
 
 2. Abra o projeto no Google Colab ou em outro ambiente Python.
